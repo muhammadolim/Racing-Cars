@@ -148,3 +148,13 @@ for (let i = 0; i < speedInputs.length; i++) {
         this.value = val
     });
 }
+
+
+
+var imgs = document.querySelectorAll('img')
+
+for (img of imgs) {
+    img.addEventListener('mousedown', function (e) {
+        e.preventDefault()
+    });
+}
