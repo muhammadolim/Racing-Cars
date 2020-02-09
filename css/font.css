@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Usuzi Italic";
+    src:url("../fonts/Usuzi Italic.woff2") format("woff2"),
+        url("../fonts/Usuzi Italic.woff") format("woff");
+}
+
+@font-face {
+    font-family: "CommonComic";
+    src:url("../fonts/CommonComic.woff2") format("woff2"),
+        url("../fonts/CommonComic.woff") format("woff");
+}
