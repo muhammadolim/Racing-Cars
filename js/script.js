@@ -1,5 +1,3 @@
-////// starting point
-
 var distance = document.querySelector('.row').offsetWidth - 15 - 150
 var container = document.querySelector('.container-fluid')
 var inputs = document.querySelectorAll('input')
